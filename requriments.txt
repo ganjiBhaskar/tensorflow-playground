@@ -3,6 +3,6 @@ keras
 numpy
 pandas
 scikit-learn
-matplotlib
+matplotlib.pyplot
 mlxtend
 streamlit
